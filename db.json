@@ -1,0 +1,9 @@
+// db.json
+// db.json
+{
+  "users": [
+    { "id": 1, "nom": "Doe", "prenom": "John", "adresse": "123 Rue XYZ", "codePostal": "12345", "numeroTel": "555-1234" },
+    { "id": 2, "nom": "Smith", "prenom": "Jane", "adresse": "456 Rue ABC", "codePostal": "67890", "numeroTel": "555-5678" }
+  ]
+}
+
